@@ -1,5 +1,10 @@
 # ECE-198-Project-updates
 
+
+HELLO! Welcome to our ECE 198 Project repository. Below, view our updates and progress thus far :)
+-Kylie Morgan
+
+
 Updates by date:
 08/11/23: ECE 198 Project Updates created
 
