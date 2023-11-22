@@ -14,3 +14,4 @@ Updates by date:
 11/11/23 main.c commit 2
   added on button functionality
 11/11/23 Design Document.docx commit
+20/11/23 man.c commit 3
